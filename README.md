@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+live:- https://vikassharma9090.github.io/CovidData/
+
 ## Available Scripts
 
 In the project directory, you can run:
